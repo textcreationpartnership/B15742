@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heir followis the testament and tragedie of vmquhile King Henrie Stewart of gude memorie</title>
+            <author>Sempill, Robert, 1530?-1595.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15742</idno><idno type="EEBO-CITATION">99846163_177517</idno>
+  <idno type="VID">177517</idno>
+  <idno type="EEBO-PROQUEST">2264202065</idno>
+  <idno type="STC">STC 22199</idno>
+  <idno type="STC">ESTC S110657</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99846163e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177517)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1010:03, 1670:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heir followis the testament and tragedie of vmquhile King Henrie Stewart of gude memorie</title>
+                  <author>Sempill, Robert, 1530?-1595.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Be Robert Lekpreuik,</publisher>
+                  <pubPlace>Imprentit at Edinburgh :</pubPlace>
+                  <date>Anno Do. 1567.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Robert Sempill.</note>
+                  <note>A ballad.</note>
+                  <note>Verse - I Henry Stewart, vmquhile of Scotland King,".</note>
+                  <note>Formerly also STC 23372.</note>
+                  <note>Identified as STC 23372 on UMI microfilm, reel 1010.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+                  <note>Appears at reel 1010 and at reel 1670 (both are British Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Darnley, Henry Stuart, --  Lord, 1545-1567.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:177517:1"/>
+            <head>Heir followis the testament and tragedie of vmquhile King Henrie Stewart of gude memorie</head>
+            <lg>
+               <l>I Henry Stewart, vmquhile of Scotland King,</l>
+               <l>Sumtyme in houpe, with reuerence to King:</l>
+               <l>Within this Realme in dew obedience,</l>
+               <l>Traisting with ane actoure all eirdlie thing</l>
+               <l>Quha was the ruite quhairof I did spring,</l>
+               <l>In honour to liue be kyndelie allyance:</l>
+               <l>Putand in hir sic faith and confidence,</l>
+               <l>Ingland I left, seducit be Ignorance,</l>
+               <l>Scotland I socht, in houpe for to get hir:</l>
+               <l>Quhilk I may rew, as now is cum the chance,</l>
+               <l>And vthers learne by me experience</l>
+               <l>In tyme be war, fra ainis the work misset hir.</l>
+            </lg>
+            <lg>
+               <l>¶ Sumtyme sho thocht, I was sa amiabill,</l>
+               <l>Sa perfyte, plesand, and sa dilectabill:</l>
+               <l>Lancit with luif, sho luid me by all wycht,</l>
+               <l>Sum tyme to shaw effectioun fauorabill,</l>
+               <l>Gratifeit me with giftis honorabill,</l>
+               <l>Maid me ʒe knaw, baith Lord, D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rik, Erle &amp; Knycht:</l>
+               <l>Sum tyme in mynde sho praisit me sa hycht,</l>
+               <l>Leifand all vther, hir bedfellow brycht</l>
+               <l>Chesit me to be, and maid me ʒour King:</l>
+               <l>Than was I thocht happy into menis sycht</l>
+               <l>And puir anis did pryse thair maker of mycht</l>
+               <l>That send thame ane Stewart sa kyndelie to King.</l>
+            </lg>
+            <lg>
+               <l>¶ Thus quhen sho had auancit me in estate,</l>
+               <l>Hir for to pleis I set my haill consait:</l>
+               <l>Quhilk now is cause of my rakles ruyne,</l>
+               <l>Hir <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> luife quhilk kindlit ouer hait,</l>
+               <l>Cauld hes it cuild, and sylit me with dissait</l>
+               <l>Plungeit my corps into this present pyne,</l>
+               <l>Not onelie ʒow Lordis causand me to tyne,</l>
+               <l>Bot als allace fra my trew God declyne,</l>
+               <l>Quhome I imbrasit, for plesoure of hir Mes</l>
+               <l>Iustlie thairfoir, I haue deseruit this fyue,</l>
+               <l>Quha for hir saik denyit the God deuine</l>
+               <l>That did me bring fra plesoure to distres.</l>
+            </lg>
+            <lg>
+               <l>¶ Backwart fra God my Spirite fra sho wylit,</l>
+               <l>Daylie with darknes my sycht sho onersylit,</l>
+               <l>My Princelie pretence began to decay,</l>
+               <l>Vaine houpe in hir my refsoun exilit,</l>
+               <l>My truethles toung my honoure defylit</l>
+               <l>My doing in deid sho gart me deny,</l>
+               <l>Fra credite I crakit, kyndnes brak ray,</l>
+               <l>No man wald trow the worde I did say,</l>
+               <l>My leigis me left, persauand hir Ire</l>
+               <l>Ingland I left, and help was away</l>
+               <l>God maid hir scurge to plaigue me sor ay,</l>
+               <l>Be war the scurge he cast not in the fyre.</l>
+            </lg>
+            <lg>
+               <l>¶ Thus was I than to doloure destinat,</l>
+               <l>Miserabill man and Prince infortunat,</l>
+               <l>Quhomlit in sorow and plungeit in cair:</l>
+               <l>Sum tyme in mynde with anger agitat,</l>
+               <l>Sum tyme in Spirit pansiue and fatigat,</l>
+               <l>Musand the meine mycht meis hir euer mai<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Sum tyme with doloure drewin in dispair,</l>
+               <l>Variand the warld, welth and weilfair,</l>
+               <l>Deid I desirid hir falset to fle,</l>
+               <l>Sum tyme in mynd thinkand the contrare,</l>
+               <l>Sum vncouthe vaiage I purpoisit prepare,</l>
+               <l>Bot not sa vncouth as was prepairit for me▪</l>
+            </lg>
+            <lg>
+               <l>¶ Into the tyme of this my extasie,</l>
+               <l>Quhen I was in this fearfull fantasie,</l>
+               <l>With <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fair, and <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wordis discreit,</l>
+               <l>Scho come to me with greit humilitie:</l>
+               <l>Lamentand sair my greit calamitie,</l>
+               <l>My langsu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n lyfe, and sair tor nentit Spirite,</l>
+            </lg>
+            <lg>
+               <l>Promittand with aue faithfull hart contreit,</l>
+               <l>In tyme to cum, with reuerence me treit</l>
+               <l>To my degre, in honoure, luife and peace,</l>
+               <l>Traistand into hir <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wordis sweit,</l>
+               <l>My hairt and lyfe into hir handis compleit,</l>
+               <l>I put, and past vnto the Sacrifice.</l>
+            </lg>
+            <lg>
+               <l>¶ Quhat sall I wryte, how I was troublit thair,</l>
+               <l>I wat it wald mak ony haill hairt sair,</l>
+               <l>For to reuolue my tristsu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tragidie,</l>
+               <l>How that thay boucheouris blew me in the air,</l>
+               <l>And stranglit me, I shame for to declair:</l>
+               <l>Nouther to God, nor honoure hauand E<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>I houpit weill to haue na ennymie,</l>
+               <l>Into this Realme fra my natiuitie,</l>
+               <l>Thair was na man, quhome to I did offend,</l>
+               <l>Dissauit far I fand the contrarie,</l>
+               <l>Off Tygeris quholpis fusterit in tyrannie,</l>
+               <l>Ane treuthles troup hes drewin me to this end.</l>
+            </lg>
+            <lg>
+               <l>¶ O faithles flock, denuide of godlynes,</l>
+               <l>O Scrpentis scid, nurisheit in wickitnes,</l>
+               <l>Fosteraris of falset▪ huirdome and harlatrie,</l>
+               <l>Mantenaris of murther, witchecraft expres,</l>
+               <l>Tresoun amang ʒow dois daylie incres:</l>
+               <l>Lawtie is banist, Iustice and equitie,</l>
+               <l>Quhat sall I wryte of ʒoure wyle vanitie?</l>
+               <l>On falset is foundit ʒour haill felicitie,</l>
+               <l>ʒour Castellis nor townis, sall not ʒow defend,</l>
+               <l>God hes persauit ʒour infidelitie,</l>
+               <l>And schortlie will plaigue ʒour crewell tyrannie,</l>
+               <l>Off ʒoure schort solace sorow salbe the end.</l>
+            </lg>
+            <lg>
+               <l>¶ Quhat hairt so hard for petie will not bleid?</l>
+               <l>Vuhat breist can beir bot man lament my deid?</l>
+               <l>Quhat toung sa thrall in silence suir can rest?</l>
+               <l>To se ane saule in sorow sowsit but feid,</l>
+               <l>Ane saikles Lambe, ane innocent but dreid,</l>
+               <l>Taine be consent of thame he luiffit best:</l>
+               <l>Furth of his bed with doloure to be drest,</l>
+               <l>By thrawart malice and murther manifest,</l>
+               <l>Iugeit by Law, and hangit syne but dome,</l>
+               <l>Sair it was to se ʒoure Prince with murther prest:</l>
+               <l>Sairar I say him in his place possest,</l>
+               <l>The deid that did, than Burrio, now Brydegrome.</l>
+            </lg>
+            <lg>
+               <l>¶ O wickit <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vennomus of natuire,</l>
+               <l>Scrpentis of kynde, thocht cumlie seme ʒour statuire</l>
+               <l>Vnstabill ioy, full of aduersitie,</l>
+               <l>In mynde malicious attoure all creatuire,</l>
+               <l>Quhais malice raine, for ouer dois induire:</l>
+               <l>Teichit be experience, sa may I testifie,</l>
+               <l>ʒoure craftie consaitis cloilrit with flatterie,</l>
+               <l>And mylde meiknes sylit with subtilitie,</l>
+               <l>Ar Medeais helters to bring vs in ʒour net,</l>
+               <l>Gude deidis of auld gois furth of memorie,</l>
+               <l>The ruite of euill remaines but remedie,</l>
+               <l>Ay in ʒoure mynde sum vengance quhill ʒe get.</l>
+            </lg>
+            <lg>
+               <l>¶ For Dawyis deid in <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> sa prentic</l>
+               <l>Consauit haitrent, daylie mair augmentit,</l>
+               <l>Meik war his wordis, thocht greit was his grenance</l>
+               <l>Oft at command, to mak hir weill contentit,</l>
+               <l>In pouertie and paine my self fca court absentit</l>
+               <l>Paine could not pleis hir, nor ʒit obedience,</l>
+               <l>Persaue of <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the malice and mischance,</l>
+               <l>Quhair <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> anis get<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is in hir gouernance,</l>
+               <l>Sic sylit subiectis felterit in hir snair:</l>
+               <l>Wisdome is exilit, and prudent puruoyance,</l>
+               <l>Nobilnes and honour, defacit be ignorance,</l>
+               <l>And vercew banist, fra shame pas shed of hair▪</l>
+            </lg>
+            <lg>
+               <l>¶ This sentence trew we may persaue in deid,</l>
+               <l>In sindrie authouris quha lykis for to reid,</l>
+               <l>In luiffis raige, as storyis dois reheirs,</l>
+               <l>The crewell work of wretheit <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>manheid,</l>
+               <l>We may persaue in Stylla to succeid:</l>
+               <l>For Minds luife, hir Father gaif na grace,</l>
+               <l>Deianira hir husband Hercules,</l>
+               <l>For Nessus saik, maist crewellie allace</l>
+               <l>Brocht to mischeif, for all his vassalage,</l>
+               <l>And Clytemnestra for Egistus face,</l>
+               <l>Agamemnon the mychtie King of Ereice,</l>
+               <l>Hir husband slew, so vyle was hir vsage.</l>
+            </lg>
+            <lg>
+               <l>Off Ancus Martius we reid the greit mischance,</l>
+               <l>Quha rang in Rome in proude prcheminance,</l>
+               <l>Slaine be Lucinio at Tanaquillis procuire,</l>
+               <l>Samson also for manheid and prudence,</l>
+               <l>All Israell that had in gouernance:</l>
+               <l>Dalila defauit in vnder couertoure:</l>
+               <l>Quhairfoir lat men be war and keip thame suire,</l>
+               <l>Fra wemenis vennome, vnder faithles figure,</l>
+               <l>And gif na wyfe thair counsall for to keip,</l>
+               <l>For as the woirme that workis vnder cuire</l>
+               <l>At lenth the tre consumis that is duire,</l>
+               <l>So wemen men, fra thay in credite creip.</l>
+            </lg>
+            <lg>
+               <l>¶ I speik not but pruife, quhilk I may sairlie rew,</l>
+               <l>Quhat lyfe did thoill, my deid dois try it trew,</l>
+               <l>My fragill fortowne, sa faithles hes bene heir,</l>
+               <l>Wald God the day that I thee Scotland knew,</l>
+               <l>Atropus the threid had cut, lachesis drew,</l>
+               <l>So sould not felt the change of fortownes cheir,</l>
+               <l>My Kingdome cair, my wealth was ay in weir,</l>
+               <l>My state vnstabill, me drew fra Godis feir,</l>
+               <l>My plesoure prikis my paine ay to prouoke,</l>
+               <l>My solace sorow sobbing to asteir,</l>
+               <l>My ryches, powertie, power to empire,</l>
+               <l>My <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hes now put out the smoke.</l>
+            </lg>
+            <lg>
+               <l>¶ Quhat warldlie ioy in earth may lang iuduire,</l>
+               <l>Or quhat estate may heir him self assuire?</l>
+               <l>For to conse rue his lyfe in sicernes,</l>
+               <l>Quha may sustene the perrillous auentuire?</l>
+               <l>Off fals fortowne inconstant and vnsuire:</l>
+               <l>Or quhair sall men find steidfast stabilnes?</l>
+               <l>All warldlie blis is mixt with bitternes,</l>
+               <l>Spring and with ioy, endand with wretchitnes,</l>
+               <l>As heir my end reheirsit dois record,</l>
+               <l>Quhaicfoir let Princes pryde thame not expres</l>
+               <l>In warldlie welth in pomp nor worthynes,</l>
+               <l>Bot stablishe thair strenth, with Dauid on the Lord.</l>
+            </lg>
+            <lg>
+               <l>¶ In earth thairfoir sen nocht is parmanent,</l>
+               <l>My soule to God I leif omnipotent,</l>
+               <l>My Bab and Childe vnder the counsallis cuire,</l>
+               <l>To ʒow my Lordis of my deid Innocent,</l>
+               <l>For to reuenge I leif in Testament,</l>
+               <l>My saikles bluid, my murther and iniure,</l>
+               <l>Thocht Princes wald be falset ʒow alluire,</l>
+               <l>Hurt not ʒour honouris, the samin to smuire,</l>
+               <l>First luik to God, syne to ʒour libertie,</l>
+               <l>Think weill suppois my death ʒe wald induire,</l>
+               <l>Gif Rubbers King na subiect falbe suire</l>
+               <l>Mair nor the sheip in Foris companie.</l>
+            </lg>
+            <trailer>☞ FINIS. ☜</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprentit at Edinburgh be Robert Lekpreuik. Anno Do. 1567.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
